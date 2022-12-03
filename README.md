@@ -1,4 +1,0 @@
-theme: minima
-
-## Sannolikhet 
-Hello!
